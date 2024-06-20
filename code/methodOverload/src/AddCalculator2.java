@@ -1,0 +1,2 @@
+public class AddCalculator2 {
+}
